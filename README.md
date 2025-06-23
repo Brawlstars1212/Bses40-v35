@@ -27,4 +27,4 @@ based on [bsl-v41](https://github.com/LkPrtctrd/BSL-V41)
 11.  have fun or watch family guy the same episode 420 times
 
 
-[bs-v35](https://raw.githubusercontent.com/Brawlstars1212/Bses40-v35/refs/heads/main/Screenshot_20250623_180404.jpg)
+(https://raw.githubusercontent.com/Brawlstars1212/Bses40-v35/refs/heads/main/Screenshot_20250623_180404.jpg)
