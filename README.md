@@ -26,3 +26,5 @@ based on [bsl-v41](https://github.com/LkPrtctrd/BSL-V41)
 10.  open the 2 years old apk (halo wecome to macraft (tf i worte))
 11.  have fun or watch family guy the same episode 420 times
 
+
+[bs-v35](https://raw.githubusercontent.com/Brawlstars1212/Bses40-v35/refs/heads/main/Screenshot_20250623_180404.jpg)
