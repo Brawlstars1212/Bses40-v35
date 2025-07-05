@@ -1,7 +1,7 @@
 # Bses40-v35 (not realesed yet)
 this is a v41 brawl stars server that as been edited to be like v35 that's why it is called bses which means brawl stars edited server
 
-apk: coming soon!
+apk: [here](https://www.mediafire.com/file/q00dedunoj6qmxv/bses40-v35.apk/file)
 
 
 
